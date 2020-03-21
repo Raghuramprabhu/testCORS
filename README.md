@@ -1,0 +1,2 @@
+# testCORS
+Test
